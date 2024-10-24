@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icarrom063\\source\\clases-metodos\\Ejercicio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5ECB39-E064-432C-BFD4-78E62C00787F}|Ejercicio10\\Ejercicio10.csproj|c:\\users\\icarrom063\\source\\clases-metodos\\ejercicio10\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5ECB39-E064-432C-BFD4-78E62C00787F}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icarrom063\\source\\clases-metodos\\Ejercicio10\\Ejercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\icarrom063\\source\\clases-metodos\\Ejercicio10\\Ejercicio10\\Program.cs",
+              "RelativeToolTip": "Ejercicio10\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:59:42.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
